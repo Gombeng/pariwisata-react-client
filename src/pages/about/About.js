@@ -19,7 +19,7 @@ const About = () => {
 		<Container margin="0 auto">
 			<Box>
 				<div className="m-1 info">
-					<h2 className="mb-1">Tentang Desa Mandailing Natal / Madina</h2>
+					<h2 className="mb-1">Tentang Mandailing Natal / Madina</h2>
 					<img className="mb-1" src={AirTerjun} alt="" />
 					<p className="mb-1">
 						Mandailing Natal (disingkat Madina) adalah sebuah kabupaten yang
@@ -32,7 +32,7 @@ const About = () => {
 				</div>
 
 				<div className="m-1 address">
-					<h2 className="mb-1half">Desa Mandailing Natal</h2>
+					<h2 className="mb-1half">Kontak & lokasi</h2>
 
 					<Iframe iframe={iframe} />
 					<div className="mb-1half"></div>
